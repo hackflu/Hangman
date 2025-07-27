@@ -1,0 +1,14 @@
+.box {
+  background-color: #f1f1f1;
+  color: #000;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.box:hover {
+  background-color: rgb(122, 237, 122);
+  color: white;
+}
